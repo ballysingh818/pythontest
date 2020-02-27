@@ -29,7 +29,7 @@ if choice == "1":
 elif choice == "2":
     print(number1, "-", number2, "=", subtract(number1,number2))
 
-elif choice == "3":
+elif choice ==  "3":
     print(number1, "*", number2, "=", multiply(number1,number2))
 
 elif choice == "4":
